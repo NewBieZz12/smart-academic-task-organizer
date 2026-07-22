@@ -78,3 +78,6 @@ Users can upload timetable images and assignment PDF files, and the system autom
 https://github.com/user-attachments/assets/52d69be6-8a64-4ddc-881f-945a7f2e75a1
 
 
+👨‍💻 Author
+
+Hee Wei Jie
